@@ -59,6 +59,15 @@ const ArcaneRiverZone = [
   },
   { name: 'morass', daily: 8, key: 'morass' },
   { name: 'esfera', daily: 8, key: 'esfera' },
+
+  {
+    name: 'cernium',
+    extraRegion: 'burning_cernium',
+    daily: [5, 10],
+    key: 'cernium',
+  },
+  
+
 ]
 
 export default ArcaneRiverZone

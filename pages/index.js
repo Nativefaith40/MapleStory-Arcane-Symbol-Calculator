@@ -28,6 +28,7 @@ const initialValues = {
   arcana: {},
   morass: {},
   esfera: {},
+  cernium: {},
 }
 
 const storageKey = 'MAPLESTORE_ARCANE_SYMBOL_CALCULATOR_DATA'
